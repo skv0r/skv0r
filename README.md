@@ -11,6 +11,9 @@
   <a href="https://vk.com/skv0rr">
     <img src="https://img.shields.io/badge/Vk-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VK Badge"/>
   </a>
+   <a href="mailto:skvorgrand@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
 </div>
 
 ---
