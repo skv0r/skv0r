@@ -9,6 +9,7 @@
   <a href="mailto:skvorgrand@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" style="border: none;"/></a> &nbsp;
   <a href="https://vk.com/skv0rr"><img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VK Badge" style="border: none;"/></a>
 </p>
+
 ---
 
 <h3 align="left">:zap: My stack</h3>
