@@ -40,6 +40,6 @@
   <details>
     <summary>:zap: GitHub Stats</summary>
     <img align="left" alt="Grigorii's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=skv0r&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE640&bg_color=151515&text_color=ffffff&border_color=0c1a25" />
-    <a align="right" href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=skv0r&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=467" alt="GitHub Streak" /></a>
+    <img height=195 align="left" alt="Grigorii's GitHub Skills" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skv0r&layout=donut&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE640&bg_color=151515&text_color=ffffff&border_color=0c1a25" />
   </details>
 </div>
